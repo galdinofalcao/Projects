@@ -9,3 +9,4 @@
 | 5              | [Web-Scraping](https://github.com/galdinofalcao/Web-Scraping-of-IMDb-Website)  | Project aimed to scrape data from the IMDB website using a flexible design for easy updates, then preprocess and analyze the data for insights |
 | 6              | [Interconnect Telecom Operator](https://github.com/galdinofalcao/Interconnect-Telecom-Operator) | Project aimed to build a machine learning model to forecast customer churn |
 | 7              | [Zyfra-Technology](https://github.com/galdinofalcao/Zyfra-Technological-Process-for-Gold-Recovery)| Project aimed to develop a prototype machine learning model to predict the amount of gold recovered from gold ore |
+| 8              | [NCAA-Predictor](https://github.com/galdinofalcao/NCAAM-March-Madness-ML-Predictor)| Project aimed to develop a machine learning model to predict the winner of the NCAAM tournament |
